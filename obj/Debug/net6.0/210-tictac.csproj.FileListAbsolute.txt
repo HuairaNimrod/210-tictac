@@ -1,0 +1,15 @@
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/210-tictac/bin/Debug/net6.0/210-tictac
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/210-tictac/bin/Debug/net6.0/210-tictac.deps.json
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/210-tictac/bin/Debug/net6.0/210-tictac.runtimeconfig.json
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/210-tictac/bin/Debug/net6.0/210-tictac.dll
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/210-tictac/bin/Debug/net6.0/210-tictac.pdb
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/210-tictac/obj/Debug/net6.0/210-tictac.csproj.AssemblyReference.cache
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/210-tictac/obj/Debug/net6.0/210-tictac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/210-tictac/obj/Debug/net6.0/210-tictac.AssemblyInfoInputs.cache
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/210-tictac/obj/Debug/net6.0/210-tictac.AssemblyInfo.cs
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/210-tictac/obj/Debug/net6.0/210-tictac.csproj.CoreCompileInputs.cache
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/210-tictac/obj/Debug/net6.0/210-tictac.dll
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/210-tictac/obj/Debug/net6.0/refint/210-tictac.dll
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/210-tictac/obj/Debug/net6.0/210-tictac.pdb
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/210-tictac/obj/Debug/net6.0/210-tictac.genruntimeconfig.cache
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/210-tictac/obj/Debug/net6.0/ref/210-tictac.dll
