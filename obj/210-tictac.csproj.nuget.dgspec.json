@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/210-tictac/210-tictac.csproj": {}
+    "/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/210-tictac/210-tictac.csproj": {}
   },
   "projects": {
-    "/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/210-tictac/210-tictac.csproj": {
+    "/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/210-tictac/210-tictac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/210-tictac/210-tictac.csproj",
+        "projectUniqueName": "/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/210-tictac/210-tictac.csproj",
         "projectName": "210-tictac",
-        "projectPath": "/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/210-tictac/210-tictac.csproj",
+        "projectPath": "/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/210-tictac/210-tictac.csproj",
         "packagesPath": "/Users/nimrodhuairareyna/.nuget/packages/",
-        "outputPath": "/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/210-tictac/obj/",
+        "outputPath": "/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/210-tictac/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nimrodhuairareyna/.nuget/NuGet/NuGet.Config"
